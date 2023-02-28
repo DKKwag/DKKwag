@@ -26,6 +26,7 @@
   <br/><br/>
   
   ![DKKwag GitHub stats](https://github-readme-stats.vercel.app/api?username=DKKwag&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKKwag&layout=compact&theme=swift)
 </div>
 <div align=center> 
   <h2>:telephone_receiver: Contact</h2>
